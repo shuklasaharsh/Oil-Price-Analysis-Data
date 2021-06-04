@@ -45,3 +45,24 @@
 ! Create seperate files for getting visualisations.
 ! Use any cloud service for realtime data viewing and editing
 ```
+
+## Notebook not Visible
+
+- Getting the message "Sorry, something went wrong. Reload?" when viewing an *.ipynb on a GitHub blob page.
+```diff
++ Probably a problem with the GitHub notebook viewing tool - sometimes github fails to render the ipynb notebooks, 
++ I believe that is some temporary (and recurring) issue with their backend
+
+- A workaround
+
++ Try to open that notebook that you want using nbviewer online, you don't need to install it.
+```
+### Open "https://nbviewer.jupyter.org/"
+### Paste the links 
+- [Data-organising.ipynb](https://github.com/shuklasaharsh/Oil-Price-Analysis-Data/blob/main/Data-organising.ipynb)
+- [Visualisation-and-analytics.ipynb](https://github.com/shuklasaharsh/Oil-Price-Analysis-Data/blob/main/Visualisation%20and%20analytics.ipynb)
+
+```diff
++ The Notebook should be visible.
+```
+
