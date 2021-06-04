@@ -1,5 +1,12 @@
 # Econometry-Oil
+```diff
++ Update June 4, 2021 16:45 IST
++ Basic Visualisations
++ Phase 3 Complete
 
+- Next Update July 1, 2021
+- Complete analytics
+```
 ## What we aim to do with this project
 
 - We have GDP data that is sector based.
