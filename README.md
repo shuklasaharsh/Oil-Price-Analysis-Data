@@ -30,14 +30,14 @@
 - Using Econometric tests and confirming if there is a correlation present
 
 ```diff
-+ Latest Commit: [15th May]
++ Latest Commit: [June 4]
 + Initial data (Raw)
 
 ! Current work:
-! Collection of more data through RBI
+! ML Models and Visualisations
 
 - Next Commit:
-- The complete data that is sorted and labeled.
+- Complete analytics
 
 
 ! Direction Forward:
