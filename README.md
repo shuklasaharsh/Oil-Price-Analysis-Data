@@ -1,4 +1,6 @@
 # Econometry-Oil
+
+*Final Output is expected to be a dashboard*
 ```diff
 + Update June 4, 2021 16:45 IST
 + Basic Visualisations
@@ -28,6 +30,19 @@
 
 ## Phase 4
 - Using Econometric tests and confirming if there is a correlation present
+
+## To Run
+### Windows
+```diff
+python -m venv newvenv
+./newnev/Scripts/activate
+```
+
+### MacOS/Linux
+```diff
+python -m venv newenv
+source ./newenv/bin/activate
+```
 
 ```diff
 + Latest Commit: [June 4]
