@@ -7,7 +7,7 @@
 + Once enough data has been collected, the data shall be used to analyse the deeper market trend.
 + An alternative to RSP data, the BRENT index will be used for current predictions and analytics.
 ```
-# Update - Phase 1 results
+# Update - Phase 3 results
 ## Notable results
 - Rural and urban Employment are negatively correlated. 
 - Employment in urban areas is negatively correlated to retail selling price of oil.
@@ -44,8 +44,12 @@
 ## Phase 3
 - Processing the data into meaningful outputs and visualisations
 
-## Phase 4
+## Phase 4 {Bypassed - Reason cited - lack of data}
 - Using Econometric tests and confirming if there is a correlation present
+
+## Phase 5
+- Collection of inflation data
+- Creation of Dashboard.
 
 ## To Run
 ### Windows
@@ -62,13 +66,13 @@ source ./newenv/bin/activate
 
 ```diff
 + Latest Commit: [June 4]
-+ Initial data (Raw)
++ Completion of Phase 3
 
 ! Current work:
 ! ML Models and Visualisations
 
 - Next Commit:
-- Complete analytics
+- Basic MERN architecture of dashboard
 
 
 ! Direction Forward:
