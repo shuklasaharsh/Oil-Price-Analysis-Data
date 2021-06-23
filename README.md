@@ -11,6 +11,8 @@
 ```
 ## What we aim to do with this project
 
+  ![Oil PRice](https://user-images.githubusercontent.com/67519229/123069921-e9be1780-d430-11eb-88b7-1b71188d7795.png)
+
 - We have GDP data that is sector based.
 - We have individual oil prices.
 - We aim to find if there is a correlation between the taxes that the governements collects on the sold oil vs the Macroeconomic factors of the country itself.
