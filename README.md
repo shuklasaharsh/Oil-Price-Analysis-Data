@@ -11,7 +11,7 @@
 ```
 ## What we aim to do with this project
 <p align = "center" style="background-color:powderblue;">
-<img src = "https://user-images.githubusercontent.com/67519229/123069921-e9be1780-d430-11eb-88b7-1b71188d7795.png">
+<img src = "https://user-images.githubusercontent.com/67519229/123092836-8c35c500-d448-11eb-976d-d9db716205ef.jpg">
 </p>
 - We have GDP data that is sector based.
 - We have individual oil prices.
