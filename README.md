@@ -1,5 +1,12 @@
 # Econometry-Oil
 
+# Update - Phase 1 results
+<p align = "center" style="background-color:powderblue;">
+<img src = "https://user-images.githubusercontent.com/67519229/123092836-8c35c500-d448-11eb-976d-d9db716205ef.jpg">
+</p>
+
+- Upon correlation and basic visualisation of collected data we found that macroeconomic factors are correlated to the selling price of oil as expected by the classical theoretical knowledge.
+
 *Final Output is expected to be a dashboard*
 ```diff
 + Update June 4, 2021 16:45 IST
@@ -10,9 +17,6 @@
 - Complete analytics
 ```
 ## What we aim to do with this project
-<p align = "center" style="background-color:powderblue;">
-<img src = "https://user-images.githubusercontent.com/67519229/123092836-8c35c500-d448-11eb-976d-d9db716205ef.jpg">
-</p>
 - We have GDP data that is sector based.
 - We have individual oil prices.
 - We aim to find if there is a correlation between the taxes that the governements collects on the sold oil vs the Macroeconomic factors of the country itself.
