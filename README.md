@@ -1,6 +1,16 @@
 # Econometry-Oil
-
+```diff
+! Update
++ Due to the unavaibility of data the project shall be pivoted to be more mining focusd
++ for this a free AWS instance has been started that collected the daily data of RSP and logs to to a csv file.
++ A dashboard shall be created with the help of MERN to display the features of the collected data
++ Once enough data has been collected, the data shall be used to analyse the deeper market trend.
++ An alternative to RSP data, the BRENT index will be used for current predictions and analytics.
+```
 # Update - Phase 1 results
+## Notable results
+- Rural and urban Employment are negatively correlated. 
+- Employment in urban areas is negatively correlated to retail selling price of oil.
 <p align = "center" style="background-color:powderblue;">
 <img src = "https://user-images.githubusercontent.com/67519229/123092836-8c35c500-d448-11eb-976d-d9db716205ef.jpg">
 </p>
