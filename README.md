@@ -10,7 +10,7 @@
 - Complete analytics
 ```
 ## What we aim to do with this project
-<p align = "center" style="background-color:white;"
+<p align = "center" style="background-color:white;">
 <img src = "https://user-images.githubusercontent.com/67519229/123069921-e9be1780-d430-11eb-88b7-1b71188d7795.png">
 </p>
 - We have GDP data that is sector based.
